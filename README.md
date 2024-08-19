@@ -6,7 +6,7 @@ This is where I experiment and learn during my spare time, apart from work and s
 - 📊 **Data Science**
 - 💰 **Finance**
 
-![Coding GIF](https://giphy.com/gifs/socialmedia-discoball-bynik-cOhwMfxNJoJpzdRhQ6)
+![Disco Ball GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
 
