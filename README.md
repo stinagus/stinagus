@@ -1,4 +1,3 @@
-👩‍🎓 Engineering Mathematics Student @ KTH
 ### 👩‍🎓 Engineering Mathematics Student @ KTH
 
 Welcome to my GitHub! This is where I experiment and learn during my spare time, apart from work and studies. I’m deeply passionate about:
