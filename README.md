@@ -16,6 +16,8 @@ This is where I experiment and learn during my spare time, apart from work and s
 - 💼 **LinkedIn:** [Stina Gustavsson](https://www.linkedin.com/in/stina-gustavsson-32b90a1b0)
 
 ---
+🏃‍♀️ Former Track and Field Athlete
+Used to compete in sprints and hurdles. Now a statistics nerd and a track fan at its finest.
 
 <!--
 **stinagus/stinagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
