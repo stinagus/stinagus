@@ -1,6 +1,6 @@
 ### 👩‍🎓 Engineering Mathematics Student @ KTH
 
-This is where I experiment and learn during my spare time, apart from work and studies. I’m enjoy topics as:
+This is where I experiment and learn during my spare time, apart from work and studies. I enjoy topics as:
 
 - 🤖 **Machine Learning (ML)**
 - 📊 **Data Science**
