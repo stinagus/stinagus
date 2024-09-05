@@ -2,9 +2,10 @@
 
 This is where I experiment and learn during my spare time, apart from work and studies. I enjoy topics as:
 
-- 🤖 **Machine Learning (ML)**
-- 📊 **Data Science**
-- 💰 **Finance**
+- **Machine Learning (ML)**
+- **Data Science**
+- **Stochastic calculus**
+- **Finance**
 
 ![Disco Ball GIF](https://media.giphy.com/media/cOhwMfxNJoJpzdRhQ6/giphy.gif)
 
