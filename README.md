@@ -1,8 +1,11 @@
-### 👩‍🎓 Engineering Mathematics Student @ KTH
+###  Software engineer @ Gilion
+Prev. engineering mathematics student @ KTH
 
 This is where I experiment and learn during my spare time, apart from work and studies. I enjoy topics as:
 
 - **Machine Learning (ML)**
+  - Agentic frameworks
+  - Traditional ML algorithms 
 - **Data Science**
 - **Stochastic calculus**
 - **Finance**
@@ -19,7 +22,7 @@ This is where I experiment and learn during my spare time, apart from work and s
 ---
 ### Fun fact
 🏃‍♀️ Former Track and Field Athlete
-Used to compete in sprints and hurdles. Now a statistics nerd and a track fan at its finest.
+Used to compete in sprints and hurdles. 
 
 <!--
 **stinagus/stinagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
